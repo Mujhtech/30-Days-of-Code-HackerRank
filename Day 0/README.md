@@ -1,1 +1,1 @@
-# Day 7 - Hello World
+# Day 0 - Hello World
